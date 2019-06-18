@@ -1,3 +1,2 @@
-def square_array(array)
-  # your code here
-end
+juice_flavors = [Fruit,Orange,Green]
+juice_flavors.each 
